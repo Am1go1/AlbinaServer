@@ -1,0 +1,5 @@
+C:\Users\StudentDev\Documents\GitHub\AlbinaServer\Albina\Albina\obj\Debug\netcoreapp3.1\Albina.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\AlbinaServer\Albina\Albina\obj\Debug\netcoreapp3.1\Albina.AssemblyInfoInputs.cache
+C:\Users\StudentDev\Documents\GitHub\AlbinaServer\Albina\Albina\obj\Debug\netcoreapp3.1\Albina.AssemblyInfo.cs
+C:\Users\StudentDev\Documents\GitHub\AlbinaServer\Albina\Albina\obj\Debug\netcoreapp3.1\Albina.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\GitHub\AlbinaServer\Albina\Albina\obj\Debug\netcoreapp3.1\Albina.MvcApplicationPartsAssemblyInfo.cache
