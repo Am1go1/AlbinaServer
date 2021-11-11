@@ -1,0 +1,2 @@
+C:\Users\StudentDev\Documents\GitHub\AlbinaServer\Albina\Albina.cor\obj\Debug\Albina.cor.csprojAssemblyReference.cache
+C:\Users\StudentDev\Documents\GitHub\AlbinaServer\Albina\Albina.cor\obj\Debug\Albina.cor.csproj.CoreCompileInputs.cache
